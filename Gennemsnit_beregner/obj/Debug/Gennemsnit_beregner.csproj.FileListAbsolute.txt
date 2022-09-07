@@ -1,0 +1,8 @@
+C:\Users\david\source\repos\Gennemsnit_beregner\Gennemsnit_beregner\bin\Debug\Gennemsnit_beregner.exe.config
+C:\Users\david\source\repos\Gennemsnit_beregner\Gennemsnit_beregner\bin\Debug\Gennemsnit_beregner.exe
+C:\Users\david\source\repos\Gennemsnit_beregner\Gennemsnit_beregner\bin\Debug\Gennemsnit_beregner.pdb
+C:\Users\david\source\repos\Gennemsnit_beregner\Gennemsnit_beregner\obj\Debug\Gennemsnit_beregner.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\Gennemsnit_beregner\Gennemsnit_beregner\obj\Debug\Gennemsnit_beregner.csproj.SuggestedBindingRedirects.cache
+C:\Users\david\source\repos\Gennemsnit_beregner\Gennemsnit_beregner\obj\Debug\Gennemsnit_beregner.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Gennemsnit_beregner\Gennemsnit_beregner\obj\Debug\Gennemsnit_beregner.exe
+C:\Users\david\source\repos\Gennemsnit_beregner\Gennemsnit_beregner\obj\Debug\Gennemsnit_beregner.pdb
